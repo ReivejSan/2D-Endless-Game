@@ -1304,8 +1304,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveAccel: 5
-  maxSpeed: 4
-  jumpAccel: 15
+  maxSpeed: 8
+  jumpAccel: 10
   groundRaycastDistance: 5
   groundLayerMask:
     serializedVersion: 2
